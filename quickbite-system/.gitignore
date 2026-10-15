@@ -1,0 +1,16 @@
+﻿# Protect environment secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies
+**/node_modules/
+**/vendor/
+
+# Build output
+**/dist/
+**/build/
+
+# Logs and temporary files
+**/*.log
+**/.DS_Store
